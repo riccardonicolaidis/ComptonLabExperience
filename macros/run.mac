@@ -1,0 +1,4 @@
+/NameOfFile/NameOfFile Photon1MeV
+/gun/particle gamma
+/gun/energy 1 MeV
+/run/beamOn 10000000
