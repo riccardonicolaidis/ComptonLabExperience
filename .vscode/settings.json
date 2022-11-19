@@ -98,7 +98,8 @@
         "netfwd": "cpp",
         "source_location": "cpp",
         "stop_token": "cpp",
-        "cinttypes": "cpp"
+        "cinttypes": "cpp",
+        "DataAnalysis.C": "cpp"
     },
     "cmake.configureOnOpen": true
 }

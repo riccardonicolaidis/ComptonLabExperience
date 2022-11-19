@@ -31,6 +31,19 @@ Il detector presenta un'apertura da una parte per la sorgente, ovvero un fascio 
 
 La macro run.mac mostra un esempio funzionante di come lavorare con questa piattaforma.
 
+Una macro ROOT permette di analizzare i dati presenti nel root file generato e produce i grafici mostrati di seguito
+
+![Istogrammi](./ROOTmacros/Histograms.png)
+
+Individuando massimo e rms degli istogrammi riportati si puo` andare a caratterizzare l'energia media del fotone dopo lo scattering in funzione dell'angolo di scattering.
+
+![Energia angolo](./ROOTmacros/Edep_vs_Angle.png)
+
+Il modello viene riportato nell'immagine sopra dove l'energia in funzione dell'angolo e` riportata.
+
+
+
+
 
 
 
